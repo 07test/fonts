@@ -17,5 +17,5 @@ subsets: "latin-ext"
 subsets: "menu"
 source {
   repository_url: "https://github.com/docrepair-fonts/lumanosimo-fonts"
-  commit: "9c7040fdb64635624ba28c03458e29778414c4a0"
+  commit: "8f8b4fa1901a36e8a56fd15ab93ec1bea40580eb"
 }
